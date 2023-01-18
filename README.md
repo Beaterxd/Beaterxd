@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 📄 Know about my experiences [[https://www.canva.com/design/DAFN3j3owS8/ifKA3R-ywc0ErYfATWpTQQ/edit?utm_content=DAFN3j3owS8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFN3j3owS8/FHbyNnZ1897FpJXjfJg9pw/watch?utm_content=DAFN3j3owS8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+- 📄 Know about my experiences ![image](https://user-images.githubusercontent.com/98012340/213093321-c034a17a-8cdb-4a47-abbf-29670f3686c1.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
