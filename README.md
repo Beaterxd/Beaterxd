@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khananon kamjumroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khananon kamjumroon" height="30" width="40" /></a>
-<a href="https://fb.com/khananon kamjumroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khananon kamjumroon" height="30" width="40" /></a>
+<a href="https://fb.com/Khananon Kamjumroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khananon kamjumroon" height="30" width="40" /></a>
 <a href="https://instagram.com/jojokhananon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jojokhananon" height="30" width="40" /></a>
 <a href="https://discord.gg/Gayee Mallen#1399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gayee Mallen#1399" height="30" width="40" /></a>
 </p>
