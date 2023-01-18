@@ -21,6 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beaterxd&show_icons=true&locale=en&layout=compact" alt="beaterxd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beaterxd&show_icons=true&locale=en" alt="beaterxd" /></p>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,java,js,py,mysql,vscode,xd,figma)](https://skillicons.dev)
-
